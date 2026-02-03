@@ -9,9 +9,11 @@ I enjoy learning how systems break, why they break, and how to make them stronge
 
 Right now I'm taking cybersecurity courses on Coursera and building personal labs on platforms like TryHackMe and Hack The Box.
 
-I mainly use Arch Linux as my daily driver and I'm slowly getting comfortable with tools like Nmap, Burp Suite, Metasploit, and others.
+I mainly use Arch Linux as my daily driver and I'm slowly getting familiar with tools like Nmap, Burp Suite and Metasploit.
 
 I'm especially interested in offensive security, web exploitation, and privilege escalation.
+
+I document my learning journey and labs on GitHub to track my progress and share what I learn.
 
 ---
 
