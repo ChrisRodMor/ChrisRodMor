@@ -1,29 +1,22 @@
-## 👋 Who am I?
-Ethical Hacker | Red Team | Pentester  
-Offensive security enthusiast focused on learning how to identify, exploit, and report vulnerabilities.
+Hey there! 👋
 
----
+I'm Christian, an aspiring Ethical Hacker, Red Team enthusiast, and Pentester in training.
 
-## 🔭 What am I currently working on?
-- Viewing cybersecurity courses on Coursera  
-- Building personal labs (TryHackMe, Hack The Box)  
-- Learning exploitation and privilege escalation fundamentals  
+I enjoy learning how systems break, why they break, and how to make them stronger.
 
----
+Right now I'm taking cybersecurity courses on Coursera and building personal labs on platforms like TryHackMe and Hack The Box.
 
-## 🛠️ What tools do I use / learning?
-- Arch Linux  
-- Nmap  
-- Burp Suite  
-- Metasploit  
-- SQLmap, Nikto, Gobuster, Hydra  
-- Wireshark, Netcat  
-- Zsh, Bash  
+I mainly use Arch Linux as my daily driver and I'm slowly getting comfortable with tools like Nmap, Burp Suite, Metasploit, and others.
 
----
+I'm especially interested in offensive security, web exploitation, and privilege escalation.
 
-## 📫 How to reach me?
-- GitHub: https://github.com/ChrisRodMor  
-- Email: christianrodmor@gmail.com
-- LinkedIn: linkedin.com/in/christian-rodriguez-moreno-8a399b349/
+Fun facts:
+- I use Arch btw  
+- I like learning through hands-on labs  
+- I enjoy customizing my Linux environment
 
+If you want to connect or collaborate, feel free to reach out:
+
+GitHub: https://github.com/ChrisRodMor  
+LinkedIn: linkedin.com/in/christian-rodriguez-moreno-8a399b349
+Email: christianrodmor@gmail.com
